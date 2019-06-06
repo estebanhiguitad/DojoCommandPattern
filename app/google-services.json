@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "9475524314",
+    "firebase_url": "https://dojocommandpattern.firebaseio.com",
+    "project_id": "dojocommandpattern",
+    "storage_bucket": "dojocommandpattern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9475524314:android:a7bcc24fb84e76e8",
+        "android_client_info": {
+          "package_name": "co.com.ceiba.command"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9475524314-b0r8d985ks9e1gv2jk5jveugbr614gjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKv_cDJu-tPj8APQaLZM4buOOxUyfd7vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9475524314-b0r8d985ks9e1gv2jk5jveugbr614gjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
