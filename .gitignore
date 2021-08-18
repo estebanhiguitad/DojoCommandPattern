@@ -69,3 +69,7 @@ local.properties
 .DS_Store
 /captures
 .externalNativeBuild
+commandPattern/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_1_aar.xml
+commandPattern/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_1.xml
+commandPattern/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml
+commandPattern/.idea/libraries/Gradle__androidx_core_core_1_5_0_aar.xml
