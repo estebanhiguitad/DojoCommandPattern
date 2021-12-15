@@ -7,8 +7,12 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
+    var target = -5
+    val num = 3
+    
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        target =+ num
         setContentView(R.layout.activity_main)
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
             val channelId = getString(R.string.default_notification_channel_id)
